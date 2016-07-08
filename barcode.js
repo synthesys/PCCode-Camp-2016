@@ -1,0 +1,1 @@
+JsBarcode("#barcode", "20XD6");
